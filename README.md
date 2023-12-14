@@ -1,5 +1,5 @@
 # sliding-mode
-Sliding mode control of a robot arm
+Sliding mode control of a robot arm. Run simulation using 2Link-Sliding-Mode.ipynb, all other files are for reference. Works used for reference listed below:
 
 https://lewisgroup.uta.edu/ee5323/notes/Slotine%20and%20Li%20applied%20nonlinear%20control-%20bad%20quality.pdf
 
@@ -9,3 +9,8 @@ https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050920X00160/1-s2.0-S1877
 
 https://github.com/plusk01/nonlinearquad/blob/master/quadsim.ipynb
 
+https://www.youtube.com/watch?v=zRdL_v7JcHc
+
+https://www.youtube.com/watch?v=uqNz45I1xtM
+
+https://vibgyorpublishers.org/content/ijre/fulltext.php?aid=ijre-5-028#ref1
